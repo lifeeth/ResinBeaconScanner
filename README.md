@@ -1,4 +1,4 @@
-# Resin Beacon
+# Resin Beacon Scanner
 iBeacon Scanner deployed with Resin.io [Defaults to Intel Edison]
 
 ## Running the demo
